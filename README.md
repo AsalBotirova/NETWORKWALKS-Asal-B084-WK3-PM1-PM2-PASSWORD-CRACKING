@@ -36,16 +36,16 @@ To extract password-verification data from the provided locked PDF and use John 
 ### Evidence
 
 #### 1. PDF Hash Extraction
-![Hash Extraction](evidence/W3-PM1-John-the-Ripper/01-pdf-hash-extraction.png)
+![Hash Extraction](01-pdf-hash-extraction.png)
 
 #### 2. Password Recovery Using John the Ripper
-![Password Recovery](evidence/W3-PM1-John-the-Ripper/02-john-password-recovery.png)
+![Password Recovery](02-john-password-recovery.png)
 
 #### 3. PDF Successfully Unlocked
-![Unlocked PDF](evidence/W3-PM1-John-the-Ripper/03-pdf-unlocked.png)
+![Unlocked PDF](03-pdf-unlocked.png)
 
 #### 4. Password Recovery Using Johnny
-![Johnny GUI](evidence/W3-PM1-John-the-Ripper/04-johnny-password-recovery.png)
+![Johnny GUI](04-johnny-password-recovery.png)
 
 ## W3-PM2 — Networkwalks Browser Tools
 
@@ -64,13 +64,13 @@ To use the Networkwalks browser-based tools to process the provided locked PDF a
 ### Evidence
 
 #### 1. Hash Extraction
-![Hash Extraction](evidence/W3-PM2-Networkwalks-Tools/01-pm2-hash-extraction.png)
+![Hash Extraction](01-pm2-hash-extraction.png)
 
 #### 2. Password Cracker Result
-![Password Cracker](evidence/W3-PM2-Networkwalks-Tools/02-pm2-password-cracked.png)
+![Password Cracker](02-pm2-password-cracked.png)
 
 #### 3. PDF Successfully Unlocked
-![Unlocked PDF](evidence/W3-PM2-Networkwalks-Tools/03-pm2-pdf-unlocked.png)
+![Unlocked PDF](03-pm2-pdf-unlocked.png)
 
 
 ## Learning Outcomes
